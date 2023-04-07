@@ -1,0 +1,3 @@
+foodname*price
+haleem*100
+mutton haleem*200
