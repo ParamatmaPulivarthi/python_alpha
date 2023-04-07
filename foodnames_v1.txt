@@ -1,0 +1,3 @@
+foodname|price
+haleem*120
+biryani*140
